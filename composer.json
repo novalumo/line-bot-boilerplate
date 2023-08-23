@@ -1,0 +1,14 @@
+{
+    "require": {
+        "php": "^7.4|^8.0",
+        "linecorp/line-bot-sdk": "^9.0",
+        "monolog/monolog": "^3.4",
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {},
+        "files": [
+            "lib/function.php"
+        ]
+    }
+}
